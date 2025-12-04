@@ -1,2 +1,0 @@
-# student-ai-
-third project
